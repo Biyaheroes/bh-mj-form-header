@@ -2,7 +2,10 @@
   "name": "bh-mj-form-header",
   "version": "0.0.0",
   "description": "Biyaheroes MJML Form Header Component",
-  "main": ".filter.js",
+  "main": "form-header.js",
+  "support": "form-header.support.js",
+  "deploy": "form-header.deploy.js",
+  "browser": "form-header.deploy.js",
   "scripts": {
     "deploy": "veon set production \"gulp clean && gulp && babel form-header.js --out-file form-header.support.js --source-maps && webpack --progress\"",
     "build": "veon set development \"gulp clean && gulp && babel form-header.js --out-file form-header.support.js --source-maps && webpack --progress\"",
