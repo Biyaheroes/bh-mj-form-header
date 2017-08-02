@@ -1,30 +1,26 @@
 {
-  "name": "bh-mj-form-header",
-  "description": "Biyaheroes MJML Form Header Component",
-  "main": ".filter.js",
-  "authors": [
-    "Biyaheroes Developer <developers@biyaheroes.com>"
-  ],
-  "license": "MIT",
-  "keywords": [
-    "biyaheroes",
-    "mjml",
-    "form-header",
-    "component",
-    "bh-mj-form-header"
-  ],
-  "homepage": "https://github.com/Biyaheroes/bh-mj-form-header",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "falzy": "^0.20.0",
-    "jquery": "^3.2.1",
-    "react": "^15.6.1",
-    "wichevr": "^0.13.0"
-  }
+	"name": "bh-mj-form-header",
+	"description": "Biyaheroes MJML Form Header Component",
+	"main": ".filter.js",
+	"authors": [
+		"Robot Biyaheroes <robot@biyaheroes.com>",
+		"Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+		"Vinse Vinalon <vinsevinalon@gmail.com>"
+	],
+	"license": "MIT",
+	"keywords": [
+		"biyaheroes",
+		"mjml",
+		"form-header",
+		"component",
+		"bh-mj-form-header"
+	],
+	"homepage": "https://github.com/Biyaheroes/bh-mj-form-header",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
 }
