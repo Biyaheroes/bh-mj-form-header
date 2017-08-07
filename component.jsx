@@ -4,7 +4,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import FormHeader from "./form-header.js";
+import FormHeader from "./form-header.module.jsx";
 
 ReactDOM.render( 
 	<FormHeader

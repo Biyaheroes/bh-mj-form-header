@@ -1,7 +1,8 @@
 {
 	"name": "bh-mj-form-header",
 	"description": "Biyaheroes MJML Form Header Component",
-	"main": ".filter.js",
+	"main": "issue.deploy.js",
+	"support": "issue.module.jsx",
 	"authors": [
 		"Robot Biyaheroes <robot@biyaheroes.com>",
 		"Richeve S. Bebedor <richeve.bebedor@gmail.com>",
